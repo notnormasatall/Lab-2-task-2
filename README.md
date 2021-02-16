@@ -19,7 +19,7 @@
 ### 2004 -37.9064862 144.7533059 - Australia
 ![text](Australia.jpg?raw=true "text")
 ### 2012 49.651179 24.2450 - Ukraine
-
+![text](Ukraine.jpg?raw=true "text")
 ### 2011 38.9072 77.03692011 38.9072 77.0369 - China
-
+![text](China.jpg?raw=true "text")
 # Опис структури html-файлу та тегів розмітки, які були згенеровані
